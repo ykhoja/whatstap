@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280871257486",
+    "firebase_url": "https://whatstap-503a9.firebaseio.com",
+    "project_id": "whatstap-503a9",
+    "storage_bucket": "whatstap-503a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280871257486:android:ee35a920f306dfb34b50df",
+        "android_client_info": {
+          "package_name": "whatstap.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280871257486-nuig8vm069luu42uof3jrh3m0ckluspl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6OvsKHR2HcAFZd1Co0Fy68chWNsxivg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280871257486-nuig8vm069luu42uof3jrh3m0ckluspl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
